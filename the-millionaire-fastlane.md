@@ -1,0 +1,27 @@
+---
+title: I Read The Millionaire's Fastlane in April and I Regret Reading Delaying it!
+description: I loved this book. TODO: add description.
+isDraft: true
+---
+
+1. Why did I delay reading the book?
+2. How did I read the book?
+3. What were my favourite things about this book?
+
+# I Read The Millionaire's Fastlane in April and I regret Delaying It For So Long!
+
+I had heard about this book from many places on the internet. How it is a must read. How it will change your perception of how you think about work, life, business. I have read some self help / productivity books but I always avoided reading this book for some reason.
+
+Maybe it was the title. It gives a sort of vibe that doesn't particulalrly attract me. I thought this book wouldn't be useful for me. 7 Habits of Highly Effective People attracted me to read it because I thought, nice! I will learn some practical things I can implement in my life that might help me. 7 things. That doesn't sound bad at all. It doesn't sound scammy. It doesn't promise anything. The book is not promising me millions.
+
+But The Millionaire's Fastlane is promising something if you follow its guidelines. It's promising you freedom, something we all want within our lives whether we like to admit it or not. And if someone promises you freedom, your first gut reaction will always rightfully be scam. I am not falling for that. I am not going to waste my time on this.
+
+# What made me read this book?
+
+Recently, I watched a video by Ali Abdaal (a productivity Youtuber) titled `My honest advice to someone wanting financial freedom`. 40 minutes long video and I watched every minute of it. Why? Because that is what I want. It is my goal. And I think Ali is genuine and gives genuine advice most of the time.
+
+In this video he talks about if you're serious, like really serious, then you would at least do the due diligence to consume stuff that talks about getting financial freedom. And then he mentioned this book once again. He and many others have mentioned this book a lot many times over the years. I have heard its name a lot. But I never read it. it never grabbed me. Ali talks about this book being a must, MUST read if you're even remotely considering pursuing financial freedom. He talks about one of his friends who read this book and then said, "After readnig this book, I can no longer have a job again". And that same friend is now making a $36,000/month with a software business. Just after 9 months of pursuing this goal.
+
+So it made me reconsider this book. What if I'm wrong? What if this book is not a scam? What if it actually gives me good advice about making millions and living the life I want to live? Then I am a fool for not picking up this book. Then I am not REALLY serious about my goals. What do I have to lose? Let's say the book is a scam. Cool, I wasted some hours reading it. But what if it's not? What if it actually changes my mindset about things. Makes me see things in a different light than I already do. Then I am literlaly throwing away millions. A chance of shifting my lifestyle, my goals, gaining knowledge about business or lose some hours of my life on a scammy book.
+
+I decided the potentional return on investment is too much to ignore. And so I downloaded the book on my phone and saved the audiobook in my Spotify.
