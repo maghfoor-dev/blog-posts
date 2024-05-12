@@ -1,0 +1,47 @@
+---
+title: I Only Use Cloudflare to Host My Next Js Apps. Here's Why You Should Too
+description: If you work with Next Js, chances are you don't use Cloudflare to host your app. Let me convince you why you should.
+slug: cloudflare-for-hosting-next-js
+isDraft: false
+---
+
+# I Only Use Cloudflare to Host My Next Js Applications. Here's Why You Should Too
+
+Since 2023 I have built multiple side projects using Next Js and I have hosted all of them on Cloudflare.
+
+If you work with Next Js you might be surprised by this. Huh? Cloudflare? Why would you not just use Vercel? They are the ones that work on maintaining Next Js after all! It's a no brainer. Let me explain.
+
+No one can deny that hosting Next on Vercel is by far the easiest option. I have tried it myself and the process really is as simple as just connecting your git repository on Vercel and everything JUST works. The work that they are doing is good. It's so easy and simple in fact that it makes a lot of people feel like Vercel is vendor-locking you into only using them by making the other options a bit more... tedious let's say.
+
+I'll say it right now. If you are not worried about pricing and clear usage guidelines then by all means just use Vercel. It's undeniable that Vercel offers a really good developer experience when it comes to hosting. But that developer experience comes with a cost.
+
+There have been multiple instances of many people complaining about waking up to a really high unexpected bill. At that point working on a fun side project becomes really stressful and it might even make you bankrupt. To see some examples all you have to do is search for Vercel bill on Twitter and you'll find examples.
+
+If you're someone like me who cares about clear pricing and a very very genenrous free tier then Vercel is not the best option for you.
+
+## Why I Use Cloudflare
+
+- Free unlimited CDN
+- Free DDOS protection
+- No worry about a surprise bill
+- Edge runtime performance
+- Extremely generous free tier in general
+- Relatively good developer experience
+
+## Explanation
+
+When I started working with Next Js, Vercel seemed like a really good option to host my apps. But that is because I was unaware of other options in general. And then I started hearing about all the instances of people getting billed hundereds and thousands from a DDOS attack or going over the CDN limit or a stripe misconfiguration and stuff of that sort.
+
+I couldn't afford to have such a thing happen to me and be worried about a bill I cannot afford. So I started looking at other options and landed on Cloudflare Pages service. I was familiar of Cloudflare before because I used them to buy my domains (Cloudflare sells domains without any markup).
+
+The more I learned about Cloudflare Pages service the more I got convinced that this is a really good service and was shocked that not enough people talk about it. I still wonder why. I know a lot of experienced people in the tech space are familiar with Cloudflare and know how amazing they are. But when it comes to beginners, I feel like they mostly almost never hear about Cloudflare until they're deep in the space.
+
+I have been using Cloudflare for around 1.5 years now and I can say I'm only becoming more and more happy using their services. Their platform and services seem so high quality and they offer extremely generous free tiers.
+
+## Any Downsides of Using Cloudflare Pages?
+
+The one thing I did struggle with at the begining was understanding how Cloudflare workers work. And how their code does not run on NodeJs runtime. Cloudflare workers run on V8 environment. What does that mean? It means if your application is using stuff like fs modules from node, they won't be accessible on their environment. Which means your application can't run. So that's what you have to be careful about and you might have to configure your application a certain way to make it work on Cloudflare.
+
+If you're curious about how you can deploy your Next Js application on Cloudflare, then I have created a guide on my [Youtube Channel](https://youtube.com/@sphorb). It's called [Deplying Next Js on Cloudflare](https://www.youtube.com/watch?v=A49jpNN4omY). You can click the link to find out more.
+
+I hope you found this article helpful :)
